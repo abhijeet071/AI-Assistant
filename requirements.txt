@@ -1,0 +1,9 @@
+spacy
+sentence_transformers
+requests
+wikipedia
+pywhatkit
+decouple
+pyttsx3
+speech-recognition
+streamlit
