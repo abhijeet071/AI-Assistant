@@ -8,10 +8,10 @@ A modular Python-based AI virtual assistant that integrates **speech recognition
 
 ## 📌 Features
 
-- 🎤 **Voice Interaction:** Converts voice to text using Speech Recognition and responds via Text-to-Speech (TTS).
-- 🧠 **Intent Recognition:** Uses **Sentence Transformers** and semantic similarity to intelligently classify user commands.
-- 🌐 **Web Services Integration:**
-  - Fetches latest news
+🎤 **Voice Interaction:** Converts voice to text using Speech Recognition and responds via Text-to-Speech (TTS).
+🧠 **Intent Recognition:** Uses **Sentence Transformers** and semantic similarity to intelligently classify user commands.
+🌐 **Web Services Integration:**
+  
   - Retrieves weather updates based on IP location
   - Plays YouTube videos
   - Performs Google and Wikipedia searches
@@ -29,7 +29,7 @@ A modular Python-based AI virtual assistant that integrates **speech recognition
 
 ## ⚙️ Tech Stack
 
-- **Python 3.11+**
+- **Python**
 - `SpeechRecognition`
 - `pyttsx3`
 - `SentenceTransformers`
@@ -45,22 +45,24 @@ A modular Python-based AI virtual assistant that integrates **speech recognition
 ## 🚀 How to Run
 
 1. **Clone the repository**
-   ```bash
+```bash
    git clone https://github.com/abhijeet071/AI-Assistant.git
    cd AI-Assistant
-
+```
 2. **Install dependencies**
 
-```bash
-pip install -r requirements.txt
+ ```bash
+   git clone https://github.com/abhijeet071/AI-Assistant.git
+   cd AI-Assistant
 ```
 3. **Run the assistant**
-```bash
-python main.py
-```
+  ```bash
+  python main.py
+  ```
 
 
 📌 Sample Commands
+
 "Open Notepad"
 
 "What's the weather like?"
