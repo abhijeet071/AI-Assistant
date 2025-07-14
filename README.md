@@ -46,6 +46,33 @@ A modular Python-based AI virtual assistant that integrates **speech recognition
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/ai_virtual_assistant.git
-   cd ai_virtual_assistant
+   git clone https://github.com/abhijeet071/AI-Assistant.git
+   cd AI-Assistant
 
+2. **Install dependencies**
+
+```bash
+pip install -r requirements.txt
+```
+3. **Run the assistant**
+```bash
+python main.py
+```
+
+
+📌 Sample Commands
+"Open Notepad"
+
+"What's the weather like?"
+
+"Tell me a joke"
+
+"Play Imagine Dragons on YouTube"
+
+"Set my reminder"
+
+"Add to my to-do list"
+
+"Find my IP address"
+
+"Search AI on Wikipedia"
